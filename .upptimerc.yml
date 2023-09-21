@@ -48,16 +48,16 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: aventiumsoftworks.github.io
-  baseUrl: /helios-status-page
-  logoUrl: https://github.com/dscalzi/HeliosLauncher/raw/master/app/assets/images/SealCircle.png
-  name: Helios Status Page
-  introTitle: "This page is used by Helios Launcher to get Mojang status."
+  baseUrl: /
+  logoUrl: https://github.com/Codixer/WolfpackLauncher/raw/master/app/assets/images/SealCircle.png
+  name: Wolfpack Status Page
+  introTitle: "This page is used by Wolfpack Launcher to get Mojang status."
   introMessage: We are not Mojang/Microsoft
   navbar:
     - title: Home
-      href: /helios-status-page
-    - title: Helios Launcher source code
-      href: https://github.com/dscalzi/HeliosLauncher
+      href: /
+    - title: Wolfpack Launcher source code
+      href: https://github.com/Codixer/WolfpackLauncher
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
