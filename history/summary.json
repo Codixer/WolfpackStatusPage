@@ -13,7 +13,7 @@
     "time": 141,
     "timeDay": 207,
     "timeWeek": 107,
-    "timeMonth": 107,
+    "timeMonth": 110,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -58,17 +58,17 @@
     "url": "https://api.mojang.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.mojang.com.ico",
     "slug": "mojang-s-public-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 220,
-    "timeWeek": 177,
-    "timeMonth": 401,
-    "timeYear": 344,
+    "time": 315,
+    "timeDay": 199,
+    "timeWeek": 170,
+    "timeMonth": 413,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   },
   {
@@ -175,7 +175,7 @@
     "time": 152,
     "timeDay": 45,
     "timeWeek": 50,
-    "timeMonth": 52,
+    "timeMonth": 53,
     "timeYear": 62,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 105,
     "timeDay": 87,
     "timeWeek": 68,
-    "timeMonth": 79,
+    "timeMonth": 81,
     "timeYear": 113,
     "dailyMinutesDown": {}
   }
