@@ -58,7 +58,7 @@
     "url": "https://api.mojang.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.mojang.com.ico",
     "slug": "mojang-s-public-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,9 +66,9 @@
     "uptimeYear": "100.00%",
     "time": 315,
     "timeDay": 89,
-    "timeWeek": 117,
-    "timeMonth": 303,
-    "timeYear": 332,
+    "timeWeek": 116,
+    "timeMonth": 300,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   },
   {
