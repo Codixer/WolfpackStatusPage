@@ -67,7 +67,7 @@
     "time": 272,
     "timeDay": 370,
     "timeWeek": 263,
-    "timeMonth": 149,
+    "timeMonth": 157,
     "timeYear": 286,
     "dailyMinutesDown": {}
   },
@@ -148,7 +148,7 @@
     "url": "https://xsts.auth.xboxlive.com/xsts/authorize",
     "icon": "https://icons.duckduckgo.com/ip3/xsts.auth.xboxlive.com.ico",
     "slug": "xbox-live-gatekeeper",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -193,7 +193,7 @@
     "time": 98,
     "timeDay": 76,
     "timeWeek": 105,
-    "timeMonth": 85,
+    "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {}
   }
